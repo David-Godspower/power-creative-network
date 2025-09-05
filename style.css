@@ -68,7 +68,7 @@ nav ul li a{
       background: black;
       color: white;
       text-align: center;
-      position: relative;
+      position: absolute;
       bottom: 0;
       width: 100%;
       font-size:25px;
@@ -103,3 +103,4 @@ nav ul li a{
 #fb,#you,#gm,#wh{
     width: 40px;
 }
+
